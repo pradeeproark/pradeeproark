@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeeproark
-- 👀 I’m interested in Languages, Bitcoin and Defi
+- 👀 I’m interested in Programming Languages, Bitcoin and Defi
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Defi apps
 
